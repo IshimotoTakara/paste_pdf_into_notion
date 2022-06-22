@@ -1,10 +1,5 @@
-# pdf2notion
-This is a tool for Notion to upload images by converting PDF.  
+# paste_pdf_into_notion
 PDFを画像に変換して、Notionへ保存します。  
-
-I use this program to save PDF as images.  
-授業で配布されたPDFを画像として保存しておきたいから。  
-
 
 # installation
 ```sh
